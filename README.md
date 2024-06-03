@@ -17,7 +17,7 @@ This project sets up a series of agents and tasks using the `crew.ai` framework 
 1. **Clone the repository:**
 
     \`\`\`bash
-    git clone https://github.com/yourusername/wingify_final_submission.git
+    git clone https://github.com/yatharth230703/CREWAI-powered-Blood-Report-Analysis.git
     cd wingify_final_submission
     \`\`\`
 
