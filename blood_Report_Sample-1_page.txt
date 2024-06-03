@@ -1,0 +1,63 @@
+.
+
+
+    Name           :     DUMMY
+    Lab No.        :   439854467                                           Age             :   30 Years
+    Ref By         :   U                                                   Gender          :   Male
+    Collected      :   14/5/2023 11:03:00AM                                Reported        :   16/5/2023 1:36:25PM
+    A/c Status     :   P                                                   Report Status   :   Final
+    Collected at   :   LPL-ROHINI (NATIONAL REFERENCE LAB)                 Processed at    :   LPL-NATIONAL REFERENCE LAB
+                       National Reference laboratory, Block E, Sector                          National Reference laboratory, Block E,
+                       18, ROHINI                                                              Sector 18, Rohini, New Delhi -110085
+                       DELHI 110085
+
+
+
+                                                                        Test Report
+       Test Name                                                         Results                       Units                   Bio. Ref. Interval
+
+       SwasthFit Super 4
+
+       COMPLETE BLOOD COUNT;CBC
+
+
+       Hemoglobin                                                        15.00                         g/dL                     13.00 - 17.00
+       (Photometry)
+       Packed Cell Volume (PCV)                                          45.00                         %                        40.00 - 50.00
+       (Calculated)
+       RBC Count                                                         4.50                          mill/mm3                 4.50 - 5.50
+       (Electrical Impedence)
+       MCV                                                               90.00                         fL                       83.00 - 101.00
+       (Electrical Impedence)
+       MCH                                                               32.00                         pg                       27.00 - 32.00
+       (Calculated)
+       MCHC                                                              33.00                         g/dL                     31.50 - 34.50
+       (Calculated)
+       Red Cell Distribution Width (RDW)                                 14.00                         %                        11.60 - 14.00
+       (Electrical Impedence)
+       Total Leukocyte Count (TLC)                                       8.00                          thou/mm3                 4.00 - 10.00
+       (Electrical Impedence)
+       Differential Leucocyte Count (DLC)
+       (VCS Technology)
+        Segmented Neutrophils                                            60.00                         %                        40.00 - 80.00
+       Lymphocytes                                                       30.00                         %                        20.00 - 40.00
+       Monocytes                                                         5.00                          %                        2.00 - 10.00
+       Eosinophils                                                       5.00                          %                        1.00 - 6.00
+       Basophils                                                         0.00                          %                        <2.00
+       Absolute Leucocyte Count
+       (Calculated)
+        Neutrophils                                                      4.80                          thou/mm3                 2.00 - 7.00
+       Lymphocytes                                                       2.40                          thou/mm3                 1.00 - 3.00
+       Monocytes                                                         0.40                          thou/mm3                 0.20 - 1.00
+       Eosinophils                                                       0.40                          thou/mm3                 0.02 - 0.50
+       Basophils                                                         0.00                          thou/mm3                 0.02 - 0.10
+       Platelet Count                                                    200                           thou/mm3                 150.00 - 410.00
+       (Electrical impedence)
+       Mean Platelet Volume                                              10.0                          fL                       6.5 - 12.0
+       (Electrical Impedence)
+
+
+
+
+                                                              *439854467*                                                       Page 1 of 10
+
